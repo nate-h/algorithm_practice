@@ -1,6 +1,6 @@
 # #############################################################################
-# Problem: create python program that takes in several values as command line
-# inputs and creates a doubly-linked list from them
+# Problem: create doubly-linked list that has push front/back
+# remove front/back
 # #############################################################################
 
 
@@ -106,4 +106,3 @@ if __name__ == "__main__":
     testList.push_back(2)
     testList.push_back(3)
     print(testList)
-    
